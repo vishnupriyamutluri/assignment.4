@@ -1,0 +1,109 @@
+.color{
+    color:rgb(234, 23, 185);
+    text-align: center;
+    font-size: 40px;
+    
+}
+.box{
+    color: blue;
+    background-color: palevioletred;
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 4px solid black;
+
+}
+.box1{
+    color:red;
+    background-color:greenyellow;
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 6px dotted blueviolet;   
+}
+.box2{
+    color:rgb(255, 0, 195);
+    background-color:rgb(120, 47, 255);
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 6px dashed rgb(226, 134, 43);  
+}
+.box3{
+    color:rgb(0, 255, 140);
+    background-color:rgb(255, 134, 47);
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 6px groove rgb(89, 43, 226);  
+}
+.box4{
+    color:rgb(51, 0, 255);
+    background-color:rgb(220, 35, 35);
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 6px ridge rgb(43, 116, 226);  
+}
+.box5{
+    color:rgb(15, 16, 13);
+    background-color:rgba(148, 108, 130, 0.523);
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 6px inset rgb(164, 24, 28);  
+}
+.box6{
+    color:blue;
+    background-color:rgb(207, 156, 27);
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 6px outset rgb(42, 8, 179);  
+}
+.box7{
+    color:brown;
+    background-color:rgb(57, 185, 57);
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 6px none rgb(189, 16, 163);  
+}
+.box8{
+    color:rgb(0, 153, 255);
+    background-color:rgb(227, 15, 174);
+    padding: 10px 10px 12px 12px; 
+    text-align: center;
+    font-weight: 100;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 40px;
+    border: 6px double rgb(63, 14, 199);  
+}
+
+
+
